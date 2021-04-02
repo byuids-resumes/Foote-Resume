@@ -21,7 +21,7 @@ __Brigham Young University - Idaho,__ Rexburg, Idaho
 
 - B.S. Degree in Accounting with Data Science Cluster
 - 3.86 Major GPA
-- 3.84 Overall GPA
+- 3.84 Cumulative GPA
 
 ## Related Experience
 
